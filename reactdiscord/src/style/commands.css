@@ -1,0 +1,27 @@
+
+.MuiDataGrid-footerContainer.css-17jjc08-MuiDataGrid-footerContainer
+{
+   
+    font-size: 5vw;
+   display: none;
+   
+    
+}
+.MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.MuiTablePagination-toolbar.css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar
+{
+    margin-right: 40vw;
+    color:white;
+   
+    height: 1vw;
+}
+.MuiButtonBase-root.Mui-disabled.MuiIconButton-root.Mui-disabled.MuiIconButton-colorInherit.MuiIconButton-sizeMedium.css-zylse7-MuiButtonBase-root-MuiIconButton-root
+{
+    color:white;
+}
+html,body
+{
+    background-color: "#2C2F33";
+    height: 100vh;
+    min-height: 100vh;
+    max-height: 100vh;
+}
